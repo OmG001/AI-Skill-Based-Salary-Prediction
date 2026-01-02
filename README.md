@@ -107,7 +107,7 @@ All visual outputs are stored in the `outputs/charts/` directory.
 ## 📁 Final Project Structure
 
 ```bash
-PROJECT 2 - AI SKILL BASED SALARY PREDICTION
+.
 │
 ├── data/
 │   ├── jobs_dataset.csv
@@ -136,7 +136,7 @@ PROJECT 2 - AI SKILL BASED SALARY PREDICTION
 │   ├── train_model.py
 │   └── predict_metrics.py
 │
-├── venv/
+├── venv
 ├── main.py
 └── requirements.txt
 ```
